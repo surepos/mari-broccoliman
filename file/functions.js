@@ -58,7 +58,7 @@ function timeElapse(date) {
     seconds = '0' + seconds;
   }
   var result =
-    ' <span> 지니 공주를 만나는지 </span><span class="digit">' +
+    ' <span> 예쁜 선생님이랑 만나는지 </span><span class="digit">' +
     days +
     '</span> 일 <span class="digit">' +
     hours +
